@@ -1,5 +1,4 @@
-![build](https://img.shields.io/docker/cloud/build/sergemedvedev/freeton-msig-assistant.svg)
-[![version](https://img.shields.io/docker/v/sergemedvedev/freeton-msig-assistant?sort=semver)](https://hub.docker.com/r/sergemedvedev/freeton-msig-assistant/tags)
+# [REPO IS ARCHIVED] Maintained version lives [here](https://github.com/everscale-tools/msig-assistant)
 
 # Everscale MultiSig Assistant
 
